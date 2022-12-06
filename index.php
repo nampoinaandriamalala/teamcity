@@ -11,7 +11,7 @@
 </head>
 <body>
     <?php 
-        echo "danger";
+        echo "plus";
     ?>
 </body>
 </html>
