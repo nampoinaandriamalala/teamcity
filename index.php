@@ -11,7 +11,7 @@
 </head>
 <body>
     <?php 
-        echo "plus";
+        echo "Bonjour bonjour";
     ?>
 </body>
 </html>
